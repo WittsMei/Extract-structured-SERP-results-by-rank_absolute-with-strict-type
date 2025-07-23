@@ -1,0 +1,1 @@
+# Extract-structured-SERP-results-by-rank_absolute-with-strict-type
