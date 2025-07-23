@@ -25,3 +25,5 @@ Example output:
 - url: https://consumer.huawei.com/fr/wearables/watch-fit4/.
 
 Please extract all matching entries from the input text.
+
+
