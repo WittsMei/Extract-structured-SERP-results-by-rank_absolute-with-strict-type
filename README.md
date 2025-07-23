@@ -18,10 +18,9 @@ Task:
  url: <url>
 
 Example output:
-type: organic
-rank_absolute: 3
-title: HUAWEI WATCH FIT 4 - HUAWEI France
-url: https://consumer.huawei.com/fr/wearables/watch-fit4/.
-
+- type: organic
+- rank_absolute: 3
+- title: HUAWEI WATCH FIT 4 - HUAWEI France
+- url: https://consumer.huawei.com/fr/wearables/watch-fit4/.
 
 Please extract all matching entries from the input text.
