@@ -9,13 +9,14 @@ Task:
  - rank_absolute: integer, rank of the result starting from 1. Must not exceed 105.
  - title: string, the title of the result.
  - url: string, the URL of the result.
-- Ignore any results with rank_absolute greater than 105.
-- Output results sorted by rank_absolute ascending.
-- Provide output in the exact format (YAML-like or JSON-like):
- type: <type>
- rank_absolute: <rank_absolute>
- title: <title>
- url: <url>
+
+#### Ignore any results with rank_absolute greater than 105.
+#### Output results sorted by rank_absolute ascending.
+#### Provide output in the exact format (YAML-like or JSON-like):
+- type: <type>
+- rank_absolute: <rank_absolute>
+- title: <title>
+- url: <url>
 
 Example output:
 - type: organic
